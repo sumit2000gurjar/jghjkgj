@@ -5,5 +5,5 @@
   { "id": "04", "is_online": false, "business_unit": "Pitney Bowes Inc. (PBI)", "labor_category": "Call Center", "job_category": "Administrative Assistant", "type": "Indirect", "jc_code": "11834", "action": "" },
   { "id": "05", "is_online": true, "business_unit": "Pitney Bowes Inc. (PBI)", "labor_category": "Spokane Call Center", "job_category": "Administrative Assistant", "type": "Indirect", "jc_code": "11967", "action": "" },
   { "id": "06", "is_online": true, "business_unit": "Pitney Bowes Inc. (PBI)", "labor_category": "Administrative", "job_category": "Administrative Assistant, Intermediate", "type": "Indirect", "jc_code": "81004", "action": "" }
-];
+]
 
