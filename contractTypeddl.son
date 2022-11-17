@@ -1,5 +1,4 @@
 [
-    { "text":    "Direct", "value": 1 },
+    { "text":  "Direct" , "value": 1 },
     { "text": "Indirect", "value": 2 }
-  
-  ]
+    ]
