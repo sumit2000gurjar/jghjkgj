@@ -1,4 +1,4 @@
 [
-    { "text":  "Direct" , "value": 1 },
-    { "text": "Indirect", "value": 2 }
+    { "text":  "Direct" , "value": 1 ,"lcategoryvalue": 1},
+    { "text": "Indirect", "value": 2 , "lcategoryvalue": 2}
 ]
