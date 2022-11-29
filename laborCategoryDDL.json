@@ -4,29 +4,39 @@
     "group": null,
     "selected": false,
     "text": "Developer",
-    "value": "a075622c-cc95-4bbc-bfd2-2a799d0e7d83"  },
+    "value": "a075622c-cc95-4bbc-bfd2-2a799d0e7d83",
+    "bvalue": "a9cf4d9a-d00a-4685-8b26-74dd670b6965" 
+  },
   {
     "disabled": false,
     "group": null,
     "selected": false,
     "text": "Light Industrial",
-    "value": "0db2c496-7168-4f4f-b682-910ecd1b5e5b"  },
+    "value": "0db2c496-7168-4f4f-b682-910ecd1b5e5b" ,
+    "bvalue": "a9cf4d9a-d00a-4685-8b26-74dd670b6965" 
+  },
   {
     "disabled": false,
     "group": null,
     "selected": false,
     "text": "QA",
-    "value": "389d8e1f-95e3-455f-a56c-399fba1f3115"  },
+    "value": "389d8e1f-95e3-455f-a56c-399fba1f3115" ,
+    "bvalue": "a9cf4d9a-d00a-4685-8b26-74dd670b6965" 
+  },
   {
     "disabled": false,
     "group": null,
     "selected": false,
     "text": "string",
-    "value": "3dca9db9-4e46-4085-8c81-a3ab7633ea5d"  },
+    "value": "3dca9db9-4e46-4085-8c81-a3ab7633ea5d",
+     "bvalue": "8e83e4e6-628e-446c-9b11-3c1a80cb7977"
+  },
   {
     "disabled": false,
     "group": null,
     "selected": false,
     "text": "Tester",
-    "value": "17936a0d-91ba-4691-94a8-6a9aa7a5afcc"  }
+    "value": "17936a0d-91ba-4691-94a8-6a9aa7a5afcc",
+     "bvalue": "8e83e4e6-628e-446c-9b11-3c1a80cb7977"
+  }
 ]
